@@ -1,5 +1,5 @@
 {
-  "name": "lad-button",
+  "name": "lad-button2",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "liuandong",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lad993/lad-button.git"
+    "url": "git@github.com:lad993/lad-button.git"
   },
   "dependencies": {
     "vue": "^2.5.11"
